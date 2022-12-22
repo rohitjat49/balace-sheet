@@ -37,6 +37,7 @@ function Balancesheet() {
     }
   };
 
+
   return (
     <div className="container">
       <Toaster position="bottom-center" reverseOrder={false} />
@@ -49,6 +50,7 @@ function Balancesheet() {
             variant="outlined"
           />
         </div>
+
         <div className="col-lg-3">
           <FormControl fullWidth>
             <InputLabel id="demo-simple-select-label">Type</InputLabel>

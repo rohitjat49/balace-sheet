@@ -5,7 +5,7 @@ function Navbar() {
     <>
       <div>
         <nav id="navbar-example2" class="navbar navbar-light bg-light px-3">
-          <a class="navbar-brand" href="#">
+          {/* <a class="navbar-brand" href="#">
             Navbar
           </a>
           <ul class="nav nav-pills">
@@ -50,7 +50,7 @@ function Navbar() {
                 </li>
               </ul>
             </li>
-          </ul>
+          </ul> */}
         </nav>
         <div
           data-bs-spy="scroll"
